@@ -9,7 +9,7 @@ const moment = require("moment");
 const rp = require("request-promise");
 
 console.log("#####################");
-console.log("Jangan Lupa Bismillah");
+console.log("Bismillah");
 console.log("#####################");
 
 console.log("");
